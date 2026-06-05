@@ -1,4 +1,4 @@
-st_keyup
+streamlit-keyup
 dotenv
 streamlit
-Pillow
+pillow
