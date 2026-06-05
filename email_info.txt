@@ -1,0 +1,12 @@
+Hi {name},
+
+We recently received your order for the following product(s):
+
+{cart}
+
+The total cost of your order is: {total_cost}.
+
+To finalize your purchase (or ask any questions), contact us at flexforge100@gmail.com.
+
+Thanks,
+FlexForge Team
